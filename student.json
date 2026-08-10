@@ -1,0 +1,19 @@
+{
+   "firstname": "Rachana",    
+      "lastname": "s",
+      "dob": "2026-01-01",
+      "addresses": [
+      {
+         "type": "perm",
+         "doorno": "123",
+         "street": "gandinagar"
+      },
+      {
+        "type": "current",
+        "doorno": "123",
+        "street": "gandinager"
+      }  
+    ]
+      
+}
+     

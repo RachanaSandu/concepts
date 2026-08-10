@@ -1,0 +1,23 @@
+- firstname: Rachana
+  last name: S
+  email: rachanasandhu3@gmail.com
+  address: # list of addresses
+- type: perm
+  doorno: 123
+  street: gandinagr
+- type: current
+  doorno: 123 
+  street: gandinagr 
+
+# you can add multiple students information 
+
+- firstname: Deepika
+  last name: S
+  email: deepikas@gmail.com
+  address: # list of addresses
+- type: perm
+  doorno: 345
+  street: gandinagr
+- type: current
+  doorno: 345
+  street: gandinagr 

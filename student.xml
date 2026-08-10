@@ -1,0 +1,17 @@
+# student registration form in XML formate..
+
+<student>
+   <firstname> Rachana </firstname>
+   <lastname> s </lastname>
+   <dob> 2026-01-01 </dob>
+   <addresses>
+      <permaddress>
+         <doorno> 123 </doorno>
+         <street> gandinagar </street>
+      </permaddress>
+      <current address> 
+         <doorno> 123 </doorno>
+         <street> gandinagar </street>
+      </current address>
+   </addresses>
+</student>

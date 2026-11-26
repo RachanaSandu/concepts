@@ -216,3 +216,7 @@ Directory	Description
 /usr/include	Contains C header files for development
 /usr/share	Contains shared data, such as documentation and icons
 /usr/local	Locally installed software (software manually installed by the admin)
+
+
+
+
